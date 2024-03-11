@@ -1,11 +1,15 @@
-header{
+.cabecalho-imagem{ width: 20%
     background-color:#424E61;
     color: white;
     display: flex
     flex-direction: row
+    justify-content: space-around;
+    aling-itens: center;
+    margim: 24px 0
+
 }
-.cabecalho-imagem{
-    width: 20%
+
+   
     
     
     
