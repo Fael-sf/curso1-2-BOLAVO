@@ -1,7 +1,27 @@
-.cabecalho-imagem {
-    width: 20% background-color#424E61;
+CSS .Cabecalho {
+    background-color: #424E61;
     color: white;
-    display: flex flex-direction: row justify-content: space-around;
-    aling-itens center:
-        margim: 24px 0
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 24px 0;
+}
+.Cabecalho-imagem {
+    width: 20%;
+}
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+}
+.escola-imagem {
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#424e61,#4EBFE9);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.escola-div-conteudo{
+    width: 35%;
 }
